@@ -1,5 +1,11 @@
 Code Book NewTable.txt
 ======================
+"act_desc" is one of the six Activity Descriptions in text form.
+"subject" is the reference number for each of the 30 participants.
+The remaining fields are averages of each of the values.  The averages have been 
+calculated by subject and at an overall level for all subjects. The overall averages
+appear as subject 0 (zero).
+
 The file "NewTable.txt" contains the following 81 files
  [1] "act_desc"                       
  [2] "subject"                        
